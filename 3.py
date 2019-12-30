@@ -11,14 +11,6 @@ def fetch(path,fromTime,untilTime=None,now=None):
 
 
 
-
-
-
-
-
-
-
-
 print('asdd')
 
 
