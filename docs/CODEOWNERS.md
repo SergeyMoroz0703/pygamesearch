@@ -1,2 +1,0 @@
-# test code owners
-*       @dmitriivasiluk @SergeyMoroz0703
